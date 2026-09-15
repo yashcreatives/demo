@@ -1,0 +1,8 @@
+{
+  "name": "Yash Creations Demo",
+  "description": "5-star luxury digital restaurant menu, real-time live ordering, customer tracking, and executive admin dashboard for Yash Creations Demo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
